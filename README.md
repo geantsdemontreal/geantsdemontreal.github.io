@@ -36,6 +36,6 @@ This is a pretty simple static website, nothing fancy beside some JavaScript fil
 - Bootstrap general [documentation](https://getbootstrap.com/)
 - One-Page Pro Boostrap [template](https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/)
 
-## Contact
+## 👋🏻&nbsp; Contact
 
 Maintained on an voluntary and **amateur** basis by [@frankbinette](https://github.com/frankbinette).
