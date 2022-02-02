@@ -1,6 +1,6 @@
 # Les Géants de Montréal
 
-![geants-logo](img/geants_logo_bleu_small.png)
+![geants-logo](assets/img/geants_logo_bleu_small.png)
 
 ## 🎯&nbsp; About
 
