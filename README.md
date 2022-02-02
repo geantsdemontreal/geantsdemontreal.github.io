@@ -6,6 +6,8 @@
 
 This repository hosts the code for the static website of the olympic weightlifting club Les Géants de Montréal.
 
+[geantsdemontreal.com](http://geantsdemontreal.com)
+
 ## 🏠&nbsp; Structure
 
 This is a pretty simple static website, nothing fancy beside some JavaScript files.
